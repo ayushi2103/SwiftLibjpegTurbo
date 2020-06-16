@@ -5,6 +5,7 @@
 //  Created by Ayushi Tiwari on 2020-06-16.
 //
 
+#include "libjpegFunctions.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

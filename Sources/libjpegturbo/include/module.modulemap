@@ -4,5 +4,6 @@ module libjpegturbo {
     header "jmorecfg.h"
     header "jpeglib.h"
     header "turbojpeg.h"
+    header "libjpegFunctions.h"
     export *
 }
