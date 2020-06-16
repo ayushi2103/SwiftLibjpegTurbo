@@ -1,5 +1,5 @@
 //
-//  File.c
+//  libjpegFunctions.c
 //  
 //
 //  Created by Ayushi Tiwari on 2020-06-16.
