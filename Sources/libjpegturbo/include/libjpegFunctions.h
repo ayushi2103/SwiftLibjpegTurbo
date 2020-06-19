@@ -11,4 +11,4 @@
 
 #endif /* libjpegFunctions_h */
 
-DLLEXPORT unsigned char *tjJPEGLoadImage(const char *filename, int *width, int align, int *height, int *pixelFormat, int *inSubsamp, int flags);
+unsigned char *tjJPEGLoadImage(const char *filename, int *width, int align, int *height, int *pixelFormat, int *inSubsamp, int flags);
