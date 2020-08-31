@@ -1,3 +1,3 @@
 # SwiftLibjpegTurbo
 
-Swift wrapper for libjpeg-turbo.
+Swift wrapper for libjpeg-turbo using SPM.
